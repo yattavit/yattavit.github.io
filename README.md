@@ -11,7 +11,7 @@
 
 ## Projects
 
-### Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]
+### Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]  
 [GitHub Repository Link]()
 
 Business Case: Develop a Machine Learning model for the company to identify if the loan applicant is likely or unlikely to default on the loan, thereby assisting in the company's portfolio & risk assessment capabilities
@@ -22,7 +22,7 @@ The final model, along with the feature-engineered dataframe, acheived a **~90% 
 
 ![Loan Defaulter Machine Learning Classification Project](/assets/img/Loan Defaulter Machine Learning Classification/ROC Curves for CatBoostClassifier Model (Each Fold).png)
 
-### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]
+### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]  
 [PowerBI Dashboard Link]()
 [Slide Link]()
 [GitHub Repository Link]()
@@ -36,13 +36,13 @@ End-to-end data analytics project. Data from raw .csv file was ingested into **S
 
 ![Hotel Revenue Analysis](/assets/img/___.jpeg)
 
-### Analyzing Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]
+### Analyzing Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]  
 [Slide Link]()
 [Accompanying Tableau Public Link]()
 [Accompanying JupyterNotebook Link]()
 [Accompanying SQL Code Block Link]()
 
-### Hotel Revenue Analysis [PowerBI, PowerQuery M, DAX Python, T-SQL, SQL Server Management Studio, Excel, PowerPoint]
+### Hotel Revenue Analysis [PowerBI, PowerQuery M, DAX Python, T-SQL, SQL Server Management Studio, Excel, PowerPoint]  
 [PowerBI Dashboard Link]()
 [Slide Link]()
 [GitHub Repository Link]()
@@ -56,7 +56,7 @@ End-to-end data analytics project. Data from raw .csv file was ingested into **S
 
 ![Hotel Revenue Analysis](/assets/img/___.jpeg)
 
-### Analysis of Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]
+### Analysis of Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]  
 [Slide Link]()
 [Accompanying Tableau Public Link]()
 [Accompanying JupyterNotebook Link]()
@@ -83,14 +83,14 @@ Through which, the top 5 departments were selected for management to review, alo
 ![Analysis of Departmental Salary Disparities](/assets/img/___.jpeg)
 ![Analysis of Departmental Salary Disparities](/assets/img/___.jpeg)
 
-### Analysis of Credit Card Churning Customers [Tableau, Powerpoint]
+### Analysis of Credit Card Churning Customers [Tableau, Powerpoint]  
 [Tableau Public Link]()
 [Slide Link]()
 Analysis of attritted bank customers were performed based on various qualitative & quantitative measures using **Tableau** for data visualization. Relevant recommendations that the bank can undertake to alleviate churning customers were proposed. Limitations of the dataset which may lead to analytics bias was also discussed.
 
 ![Analysis of Credit Card Churning Customers with Tableau](/assets/img/___.jpeg)
 
-### Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors [LaTeX, OpenFOAM®, ParaView, Linux]
+### Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors [LaTeX, OpenFOAM®, ParaView, Linux]  
 [Thesis Link]()
 Achieved distinction for thesis.
 Application of C++ in **OpenFOAM®** for the model, mesh generation and turbulent fluid simulation via RANS with the k-ω-SST model in a single pellet string reactor using Bash Scripting in **Ubuntu**. ParaView is used as both the GUI and post-processing tool to extract pressure drop, along with other parameters of interest. **LaTeX** was used for relevant graph plotting and the aggregation of all findings into a presentable format.
@@ -106,7 +106,7 @@ Application of C++ in **OpenFOAM®** for the model, mesh generation and turbulen
 
 **Process & Equipment Engineer I @ Micron Semiconductor Operations Asia (_Dec 2021 - Dec 2022_)**
 - Appointed as NPI Module Cycle Time Champion, which involved managing & communicating with various Process Owners to drive down 4 pillars of Cycle Time to acheive NPI manufacturing KPI target
-- Coordinated and enabled 2.5x capability on shared Workstation and achieved fab-target of 0 single-tool availability while serving as NPI Cycle Time Champion for Diffusion and Implant module
+  - Coordinated and enabled 2.5x capability on shared Workstation and achieved fab-target of 0 single-tool availability while serving as NPI Cycle Time Champion for Diffusion and Implant module
 - Managed 5 NPI projects related to RTP, DPN & Poly processes relating to recipe improvement, FOAK tool qualification and photo scanner reject issue thus resulting in a cumulative 1.5% Yield Gain, 6% Manufacturing Availability improvement, 28% Recipe Processing Time Reduction and 50% improvement in photo scanner lot rejection per annum
 - Presented weekly analysis, plots, results, suggestions and directions to senior management and cross-faculty team members
 
@@ -121,10 +121,10 @@ Application of C++ in **OpenFOAM®** for the model, mesh generation and turbulen
 - LinkedIn Learning SQL Essential Training
 - Hackwagon IBF-DS101: Data Science 101 Bootcamp
 - Vertical Institute: IBF-Data Analytics Bootcamp
-- DataCamp:
-  ▪ Introduction to PowerBI
-  ▪ Intermediate Python
-  ▪ Intermediate SQL
+- DataCamp:  
+  ▪ Introduction to PowerBI  
+  ▪ Intermediate Python  
+  ▪ Intermediate SQL  
 - Google Data Analytics Professional Certificate: Data Analysis with R Programming
 - University of California (Coursera): Project Management Principles and Practices
 - University System of Georgia (Coursera): Six Sigma Yellow Belt
