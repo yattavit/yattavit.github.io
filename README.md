@@ -1,7 +1,5 @@
 # TDS-C01: Certified Tableau Desktop Specialist
 
-Work In Progress -> PL-300: Microsoft Power BI Data Analyst
-
 #### Technical Skills: SQL [T-SQL, PostgreSQL], Python, Tableau, PowerBI, Excel, JMP Pro, LaTeX
 #### Soft Skills: Project Management, Leadership, Effective Communication
 
