@@ -1,5 +1,20 @@
 title: Yong Sook Prasit Attavit
 logo: /assets/img/GitHub_Profile_Photo.jpg
-description: Aspiring Data Analyst & Data Scientist
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/yongsook">LinkedIn</a> |
+  <a href="https://github.com/YongSookPrasitAttavit">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Currently pursuing PL-300: Microsoft Power BI Data Analyst
+  Actively looking for any opportunities to transition into the field of data analytics
+  <br><br>
+  I am a Data-driven engineer professional with experiences in the technology industry.
+  I have proven experiences in designing and executing numerical simulative projects during my time in university as well as the usage of database querying, data analysis and data visualization to optimize semiconductor processes with the goal of cost, defect, yield and cycle time improvement in a fast-paced high volume manufacturing environment.
+  <br><br>
+  </p>
+  
 show_downloads: true
 theme: jekyll-theme-minimal
