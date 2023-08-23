@@ -11,7 +11,7 @@
 
 ## Projects
 
-### Loan Defaulter Machine Learning Classification Project [Python, scikit-learn, Applied Machine Learning]
+### Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]
 [GitHub Repository Link]()
 
 Business Case: Develop a Machine Learning model for the company to identify if the loan applicant is likely or unlikely to default on the loan, thereby assisting in the company's portfolio & risk assessment capabilities
@@ -20,7 +20,7 @@ Exploratory Data Analysis [EDA] & model testing was conducted using **Python** w
 
 The final model, along with the feature-engineered dataframe, acheived a **~90% predictive AUC score** after cross-validation via the Kaggle platform, thus demonstrating a strong ablity to discriminate between loan applicants whom are likely or unlikely to default on loans, 
 
-![Loan Defaulter Machine Learning Classification Project](/assets/img/___.jpeg)
+![Loan Defaulter Machine Learning Classification Project](/assets/img/Loan Defaulter Machine Learning Classification/ROC Curves for CatBoostClassifier Model (Each Fold).png)
 
 ### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]
 [PowerBI Dashboard Link]()
@@ -36,7 +36,7 @@ End-to-end data analytics project. Data from raw .csv file was ingested into **S
 
 ![Hotel Revenue Analysis](/assets/img/___.jpeg)
 
-### Analysis of Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]
+### Analyzing Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]
 [Slide Link]()
 [Accompanying Tableau Public Link]()
 [Accompanying JupyterNotebook Link]()
