@@ -1,11 +1,13 @@
-# Aspiring Data Analyst & Data Scientist | TDS-C01: Certified Tableau Desktop Specialist | Work In Progress -> PL-300: Microsoft Power BI Data Analyst
+# TDS-C01: Certified Tableau Desktop Specialist
+
+Work In Progress -> PL-300: Microsoft Power BI Data Analyst
 
 #### Technical Skills: SQL [T-SQL, PostgreSQL], Python, Tableau, PowerBI, Excel, JMP Pro, LaTeX
 #### Soft Skills: Project Management, Leadership, Effective Communication
 
 ## Education & Relevant Certifications
-- TDS-C01: Certified Tableau Desktop Specialist (_Jun 2023_) [Link]()
-- HackerRank SQL [Intermediate] (_Jun 2023_)
+- TDS-C01: Certified Tableau Desktop Specialist (_Jun 2023_) [Link](https://www.credly.com/badges/4830de97-b248-4c6d-9d03-922bc26f78bf/linked_in_profile)
+- HackerRank SQL [Intermediate] (_Jun 2023_) [Link](https://www.hackerrank.com/certificates/ecf14b275651)
 - B.S., Chemical Engineering | Technical University of Munich (_Sep 2020_)
 - Dip., Chemical Engineering | Temasek Polytechnic (_Apr 2015_)
 
@@ -31,6 +33,7 @@
 
 ### Loan Defaulter Machine Learning Classification Project [Python, scikit-learn, Applied Machine Learning]
 [GitHub Repository Link]()
+
 Business Case: Develop a Machine Learning model for the company to identify if the loan applicant is likely or unlikely to default on the loan, thereby assisting in the company's portfolio & risk assessment capabilities
 
 Exploratory Data Analysis [EDA] & model testing was conducted using **Python** within the **JupyterNotebook** environment. Various feature engineering techniques & models were experimented on & the best AUC scoring model was then selected & applied to form the final model.
