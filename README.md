@@ -1,6 +1,7 @@
-# TDS-C01: Certified Tableau Desktop Specialist
+# Certified Tableau Desktop Specialist
+:hammer: Work in Progress -> PL-300: Microsoft Power BI Data Analyst :hammer:
 
-#### Technical Skills: SQL [T-SQL, PostgreSQL], Python, Tableau, PowerBI, Excel, JMP Pro, LaTeX
+#### Technical Skills: SQL [T-SQL, PostgreSQL], Python, Tableau, PowerBI, Excel with VBA, JMP Pro, LaTeX
 #### Soft Skills: Project Management, Leadership, Effective Communication
 
 ## Education & Relevant Certifications
@@ -11,56 +12,32 @@
 
 ## Projects
 
-### Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]  
-[GitHub Repository Link]()
+### Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]
+[View JupyterNoteBook]()  |  [View on GitHub]()  
 
 Business Case: Develop a Machine Learning model for the company to identify if the loan applicant is likely or unlikely to default on the loan, thereby assisting in the company's portfolio & risk assessment capabilities
 
-Exploratory Data Analysis [EDA] & model testing was conducted using **Python** within the **JupyterNotebook** environment. Various feature engineering techniques & models were experimented on & the best AUC scoring model was then selected & applied to form the final model.
+Exploratory Data Analysis [EDA], feature-engineering & model testing was conducted using **Python** within the **JupyterNotebook** environment. Various feature engineering techniques & models were experimented & the best AUC scoring model was then selected & applied to form the final model.
 
-The final model, along with the feature-engineered dataframe, acheived a **~90% predictive AUC score** after cross-validation via the Kaggle platform, thus demonstrating a strong ablity to discriminate between loan applicants whom are likely or unlikely to default on loans, 
+The final model, along with the feature-engineered dataframe, acheived a **~90% predictive AUC score** after cross-validation via the Kaggle platform, thus demonstrating a strong ablity to discriminate between loan applicants whom are likely or unlikely to default on loans.
 
-![Loan Defaulter Machine Learning Classification Project](/assets/img/Loan Defaulter Machine Learning Classification/ROC Curves for CatBoostClassifier Model (Each Fold).png)
+![Loan Defaulter Machine Learning Classification Project](/assets/img/Loan_Defaulter_Machine_Learning_Classification/ROC_Curves_for_CatBoostClassifier_Model_(Each_Fold).png)
 
-### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]  
-[PowerBI Dashboard Link]()
-[Slide Link]()
-[GitHub Repository Link]()
-• Business Case: A business manager of a chain of hotel would like to request help from the data analytics team to develop a dashboard to analyze & visualize hotel booking data
-• The business manager is interested if there’s any patterns/ seasonality with respect to:
-  1. Guests
-  2. Revenue
+### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]
+[PowerBI Dashboard](https://www.novypro.com/project/hotel-revenue-data-analysis-projectv1) |  [View Powerpoint](https://drive.google.com/file/d/1JlsREV07nyBBjE8LvtkCypXUDG9kJLob/view?usp=sharing) |  [View on GitHub](https://github.com/YongSookPrasitAttavit/DataRelated_Projects/tree/main/Hotel%20Revenue%20Analysis%20Project_GitHub)  |  [SQL Code Block](https://github.com/YongSookPrasitAttavit/DataRelated_Projects/tree/main/Hotel%20Revenue%20Analysis%20Project_GitHub)  
+
+Business Case: A business manager of a chain of hotel would like to request help from the data analytics team to develop a dashboard to analyze & visualize hotel booking data
+  • The business manager is interested if there’s any patterns/ seasonality with respect to:  
+    1. Guests  
+    2. Revenue  
 Requirement: Build a Dashboard using PowerBI to provide at-a-glance information about features that are relevant to revenue
 
 End-to-end data analytics project. Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with PowerQuery M for visualization purposes. Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained with the help of additional visualizations done in PowerBI.
 
-![Hotel Revenue Analysis](/assets/img/___.jpeg)
-
-### Analyzing Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]  
-[Slide Link]()
-[Accompanying Tableau Public Link]()
-[Accompanying JupyterNotebook Link]()
-[Accompanying SQL Code Block Link]()
-
-### Hotel Revenue Analysis [PowerBI, PowerQuery M, DAX Python, T-SQL, SQL Server Management Studio, Excel, PowerPoint]  
-[PowerBI Dashboard Link]()
-[Slide Link]()
-[GitHub Repository Link]()
-• Business Case: A business manager of a chain of hotel would like to request help from the data analytics team to develop a dashboard to analyze & visualize hotel booking data
-• The business manager is interested if there’s any patterns/ seasonality with respect to:
-  1. Guests
-  2. Revenue
-Requirement: Build a Dashboard using PowerBI to provide at-a-glance information about features that are relevant to revenue
-
-End-to-end data analytics project. Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with PowerQuery M for visualization purposes. Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitation were explained with the help of additional visualizations done in PowerBI
-
-![Hotel Revenue Analysis](/assets/img/___.jpeg)
+![Hotel Revenue Analysis](/assets/img/Hotel_Revenue_Analysis/Hotel_Revenue_Dashboard_Main.png)
 
 ### Analysis of Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]  
-[Slide Link]()
-[Accompanying Tableau Public Link]()
-[Accompanying JupyterNotebook Link]()
-[Accompanying SQL Code Block Link]()
+[Slide Link]()  |  [Accompanying Tableau Public Link](https://public.tableau.com/app/profile/ysook/viz/DepartmentalSalaryDisparitiesAnalysisProject_GitHub_SupportingTableauViz/Top5DepartmenttoinvestigateDashboard)  |  [Accompanying JupyterNotebook Link]() |  [SQL Code]()
 
 Business Case:
 • The data analytics manager of a company would like to seek insights into salary disparities present within the company department
@@ -81,11 +58,9 @@ End-to-end data analytics project. Data from raw .csv file was ingested into **S
 Through which, the top 5 departments were selected for management to review, along with reasonings, based on the calculated output
 
 ![Analysis of Departmental Salary Disparities](/assets/img/___.jpeg)
-![Analysis of Departmental Salary Disparities](/assets/img/___.jpeg)
 
 ### Analysis of Credit Card Churning Customers [Tableau, Powerpoint]  
-[Tableau Public Link]()
-[Slide Link]()
+[Tableau Public Link]() |  [Slide Link]()
 Analysis of attritted bank customers were performed based on various qualitative & quantitative measures using **Tableau** for data visualization. Relevant recommendations that the bank can undertake to alleviate churning customers were proposed. Limitations of the dataset which may lead to analytics bias was also discussed.
 
 ![Analysis of Credit Card Churning Customers with Tableau](/assets/img/___.jpeg)
@@ -99,7 +74,7 @@ Application of C++ in **OpenFOAM®** for the model, mesh generation and turbulen
 
 ## Work Experience
 **Process & Equipment Engineer II @ Micron Semiconductor Operations Asia (_Dec 2022 - Feb 2023_)**
-- Continued to hold key appointment role as NPI Module Cycle Time Champion
+- Continued to hold key appointment role as NPI Module Cycle Time Champion, delivered Module-wide presentation for proposed Diffusion Cycle-Time reduction initiative
 - Achieved reduction in NPI Cycle Time from 112 day to 99day for NPI PWE and 97 to 90 days for NPI RAR line to speed up Yield Learning progress for tech node, thus contributing to Fab Yield Ramp as Module Cycle Time Champion
 - Successfully achieved a challenging 5.5% Time-To-Mature Cumulative Yield (TTMCY) target by closely monitoring critical inline parameters via macro creation for reporting purposes
 - Mentored new hires to improve their fundamental process understanding, problem-solving, and data analysis skills, resulting in their readiness to take up process ownership within 3 months
