@@ -7,8 +7,8 @@
 ## Education & Relevant Certifications
 - TDS-C01: Certified Tableau Desktop Specialist (_Jun 2023_) [Link](https://www.credly.com/badges/4830de97-b248-4c6d-9d03-922bc26f78bf/linked_in_profile)
 - HackerRank SQL [Intermediate] (_Jun 2023_) [Link](https://www.hackerrank.com/certificates/ecf14b275651)
-- B.S., Chemical Engineering | Technical University of Munich (_Sep 2020_)
-- Dip., Chemical Engineering | Temasek Polytechnic (_Apr 2015_)
+- B.S., Chemical Engineering  |  Technical University of Munich (_Sep 2020_)
+- Dip., Chemical Engineering  |  Temasek Polytechnic (_Apr 2015_)
 
 ## Projects
 
@@ -30,6 +30,7 @@ Business Case: A business manager of a chain of hotel would like to request help
   • The business manager is interested if there’s any patterns/ seasonality with respect to:  
     1. Guests  
     2. Revenue  
+
 Requirement: Build a Dashboard using PowerBI to provide at-a-glance information about features that are relevant to revenue
 
 End-to-end data analytics project. Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with PowerQuery M for visualization purposes. Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained with the help of additional visualizations done in PowerBI.
