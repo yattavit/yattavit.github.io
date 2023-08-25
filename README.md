@@ -1,3 +1,4 @@
+
 # Certified Tableau Desktop Specialist
 :hammer: Work in Progress -> PL-300: Microsoft Power BI Data Analyst :hammer:
 
@@ -13,7 +14,7 @@
 ## Projects
 
 ### Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]  
-[GitHub](https://yspattavit.github.io/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction/)
+[GitHub](https://yattavit.github.io/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction/)
 
 Business Case: Develop a Machine Learning model for the company to identify if the loan applicant is likely or unlikely to default on the loan, thereby assisting in the company's portfolio & risk assessment capabilities
 
@@ -24,7 +25,7 @@ The final model, along with the feature-engineered dataframe, acheived a **~90% 
 ![Loan Defaulter Machine Learning Classification Project](/assets/img/Loan_Defaulter_Machine_Learning_Classification/ROC_Curves_for_CatBoostClassifier_Model_(Each_Fold).png)
 
 ### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]  
-[GitHub](https://yspattavit.github.io/Hotel-Revenue-Analysis-Project/)
+[GitHub](https://yattavit.github.io/Hotel-Revenue-Analysis-Project/)
 
 Business Case: A business manager of a chain of hotel would like to request help from the data analytics team to develop a dashboard to analyze & visualize hotel booking data
 
@@ -41,7 +42,7 @@ Guests, revenue seasonality, recommendation for staffing arrangement, and datase
 ![Hotel Revenue Analysis](/assets/img/Hotel_Revenue_Analysis/Hotel_Revenue_Dashboard_Main.png)
 
 ### Analysis of Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]  
-[GitHub](https://yspattavit.github.io/Analysis-of-Departmental-Salary-Disparities-Project/)
+[GitHub](https://yattavit.github.io/Analysis-of-Departmental-Salary-Disparities-Project/)
 
 Business Case: The data analytics manager of a company would like to seek insights into salary disparities present within the company department
 
@@ -65,7 +66,7 @@ Through which, the top 5 departments were selected for management to review, alo
 ![Analysis of Departmental Salary Disparities](/assets/img/Analysis_Of_Departmental_Salary_Disparities/Top_5_Department_by_Salary_Disparities.png)
 
 ### Analysis of Credit Card Churning Customers [Tableau, Powerpoint]  
-[GitHub](https://yspattavit.github.io/VI_Capstone_Credit-Card-Customers_Predict-Churning-Customers/)  
+[GitHub](https://yattavit.github.io/VI_Capstone_Credit-Card-Customers_Predict-Churning-Customers/)  
 
 Analysis of attritted bank customers were performed based on various qualitative & quantitative measures using **Tableau** for data visualization.
 Relevant recommendations that the bank can undertake to alleviate churning customers were proposed.
@@ -75,7 +76,7 @@ Limitations of the dataset which may lead to analytics bias was also discussed.
 ![Analysis of Credit Card Churning Customers with Tableau](/assets/img/Analysis_Of_Credit_Card_Churning_Customers/viz_2.png)
 
 ### Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors [LaTeX, OpenFOAM®, ParaView, Linux, C++]
-[GitHub Repo](https://github.com/YSPAttavit/TUM_Numerical_Investigation_SPSR)
+[GitHub Repo](https://github.com/yattavit/TUM_Numerical_Investigation_SPSR)
 
 **Achieved distinction for thesis.**
 
