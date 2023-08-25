@@ -1,7 +1,7 @@
 # Certified Tableau Desktop Specialist
 :hammer: Work in Progress -> PL-300: Microsoft Power BI Data Analyst :hammer:
 
-#### Technical Skills: SQL [T-SQL, PostgreSQL], Python, Tableau, PowerBI, Excel with VBA, JMP Pro, LaTeX
+#### Technical Skills: SQL, SQL Server Management Studio [SSMS], PostgreSQL, Python, Tableau, PowerBI, Excel with VBA, JMP Pro, LaTeX
 #### Soft Skills: Project Management, Leadership, Effective Communication
 
 ## Education & Relevant Certifications
@@ -13,7 +13,7 @@
 ## Projects
 
 ### Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]
-[View JupyterNoteBook]()  |  [View on GitHub]()  
+[GitHub](https://yspattavit.github.io/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction/)  
 
 Business Case: Develop a Machine Learning model for the company to identify if the loan applicant is likely or unlikely to default on the loan, thereby assisting in the company's portfolio & risk assessment capabilities
 
@@ -23,8 +23,8 @@ The final model, along with the feature-engineered dataframe, acheived a **~90% 
 
 ![Loan Defaulter Machine Learning Classification Project](/assets/img/Loan_Defaulter_Machine_Learning_Classification/ROC_Curves_for_CatBoostClassifier_Model_(Each_Fold).png)
 
-### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]
-[PowerBI Dashboard](https://www.novypro.com/project/hotel-revenue-data-analysis-projectv1) |  [View Powerpoint](https://drive.google.com/file/d/1JlsREV07nyBBjE8LvtkCypXUDG9kJLob/view?usp=sharing) |  [View on GitHub](https://github.com/YongSookPrasitAttavit/DataRelated_Projects/tree/main/Hotel%20Revenue%20Analysis%20Project_GitHub)  |  [SQL Code Block](https://github.com/YongSookPrasitAttavit/DataRelated_Projects/tree/main/Hotel%20Revenue%20Analysis%20Project_GitHub)  
+### Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]  
+[GitHub](https://yspattavit.github.io/Hotel-Revenue-Analysis-Project/)
 
 Business Case: A business manager of a chain of hotel would like to request help from the data analytics team to develop a dashboard to analyze & visualize hotel booking data
   • The business manager is interested if there’s any patterns/ seasonality with respect to:  
@@ -37,7 +37,7 @@ End-to-end data analytics project. Data from raw .csv file was ingested into **S
 ![Hotel Revenue Analysis](/assets/img/Hotel_Revenue_Analysis/Hotel_Revenue_Dashboard_Main.png)
 
 ### Analysis of Departmental Salary Disparities [Tableau, Python, T-SQL, SQL Server Management Studio, Excel, Powerpoint]  
-[Slide Link]()  |  [Accompanying Tableau Public Link](https://public.tableau.com/app/profile/ysook/viz/DepartmentalSalaryDisparitiesAnalysisProject_GitHub_SupportingTableauViz/Top5DepartmenttoinvestigateDashboard)  |  [Accompanying JupyterNotebook Link]() |  [SQL Code]()
+[GitHub](https://yspattavit.github.io/Analysis-of-Departmental-Salary-Disparities-Project/)
 
 Business Case:
 • The data analytics manager of a company would like to seek insights into salary disparities present within the company department
@@ -57,20 +57,23 @@ End-to-end data analytics project. Data from raw .csv file was ingested into **S
 4. Outlier Count based off Z-Score values
 Through which, the top 5 departments were selected for management to review, along with reasonings, based on the calculated output
 
-![Analysis of Departmental Salary Disparities](/assets/img/___.jpeg)
+![Analysis of Departmental Salary Disparities](/assets/img/Analysis_Of_Departmental_Salary_Disparities/Top_5_Department_by_Salary_Disparities.png)
 
 ### Analysis of Credit Card Churning Customers [Tableau, Powerpoint]  
-[Tableau Public Link]() |  [Slide Link]()
+
 Analysis of attritted bank customers were performed based on various qualitative & quantitative measures using **Tableau** for data visualization. Relevant recommendations that the bank can undertake to alleviate churning customers were proposed. Limitations of the dataset which may lead to analytics bias was also discussed.
+[GitHub](https://yspattavit.github.io/VI_Capstone_Credit-Card-Customers_Predict-Churning-Customers/)
 
-![Analysis of Credit Card Churning Customers with Tableau](/assets/img/___.jpeg)
+![Analysis of Credit Card Churning Customers with Tableau](/assets/img/Analysis_Of_Credit_Card_Churning_Customers/viz_2.png)
 
-### Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors [LaTeX, OpenFOAM®, ParaView, Linux]  
-[Thesis Link]()
+### Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors [LaTeX, OpenFOAM®, ParaView, Linux, C++]
+[GitHub Repo](https://github.com/YSPAttavit/TUM_Numerical_Investigation_SPSR)
+
 Achieved distinction for thesis.
+
 Application of C++ in **OpenFOAM®** for the model, mesh generation and turbulent fluid simulation via RANS with the k-ω-SST model in a single pellet string reactor using Bash Scripting in **Ubuntu**. ParaView is used as both the GUI and post-processing tool to extract pressure drop, along with other parameters of interest. **LaTeX** was used for relevant graph plotting and the aggregation of all findings into a presentable format.
 
-![Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors](/assets/img/___.jpeg)
+![Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors](/assets/img/TUM_Thesis/SPSR_FrontView_MeanderingFluidFlow.png)
 
 ## Work Experience
 **Process & Equipment Engineer II @ Micron Semiconductor Operations Asia (_Dec 2022 - Feb 2023_)**
