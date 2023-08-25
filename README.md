@@ -7,8 +7,8 @@
 ## Education & Relevant Certifications
 - TDS-C01: Certified Tableau Desktop Specialist (_Jun 2023_) [Link](https://www.credly.com/badges/4830de97-b248-4c6d-9d03-922bc26f78bf/linked_in_profile)
 - HackerRank SQL [Intermediate] (_Jun 2023_) [Link](https://www.hackerrank.com/certificates/ecf14b275651)
-- B.S., Chemical Engineering | Technical University of Munich (_Sep 2020_)
-- Dip., Chemical Engineering | Temasek Polytechnic (_Apr 2015_)
+- B.S., Chemical Engineering: Technical University of Munich (_Sep 2020_)
+- Dip., Chemical Engineering: Temasek Polytechnic (_Apr 2015_)
 
 ## Projects
 
