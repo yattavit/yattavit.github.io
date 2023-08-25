@@ -60,9 +60,10 @@ Through which, the top 5 departments were selected for management to review, alo
 ![Analysis of Departmental Salary Disparities](/assets/img/Analysis_Of_Departmental_Salary_Disparities/Top_5_Department_by_Salary_Disparities.png)
 
 ### Analysis of Credit Card Churning Customers [Tableau, Powerpoint]  
+[GitHub](https://yspattavit.github.io/VI_Capstone_Credit-Card-Customers_Predict-Churning-Customers/)  
 
 Analysis of attritted bank customers were performed based on various qualitative & quantitative measures using **Tableau** for data visualization. Relevant recommendations that the bank can undertake to alleviate churning customers were proposed. Limitations of the dataset which may lead to analytics bias was also discussed.
-[GitHub](https://yspattavit.github.io/VI_Capstone_Credit-Card-Customers_Predict-Churning-Customers/)
+
 
 ![Analysis of Credit Card Churning Customers with Tableau](/assets/img/Analysis_Of_Credit_Card_Churning_Customers/viz_2.png)
 
