@@ -37,7 +37,7 @@ Requirement: Build a Dashboard using **PowerBI** to provide at-a-glance informat
 
 Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with **PowerQuery M** for visualization purposes.
 
-Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained with the help of additional visualizations done in PowerBI in the accompanying Powerpoint slide.
+Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained with the help of additional visualizations done in PowerBI in the accompanying **Powerpoint slides**.
 
 ![Hotel Revenue Analysis](/assets/img/Hotel_Revenue_Analysis/Hotel_Revenue_Dashboard_Main.png)
 
@@ -99,7 +99,7 @@ Further elaboration is done in the accompanying **Powerpoint Slides**.
 - Appointed as NPI Module Cycle Time Champion, which involved managing & communicating with various Process Owners to drive down 4 pillars of Cycle Time to acheive NPI manufacturing KPI target
   - Coordinated and enabled 2.5x capability on shared Workstation and achieved fab-target of 0 single-tool availability while serving as NPI Cycle Time Champion for Diffusion and Implant module
 - Managed 5 NPI projects related to RTP, DPN & Poly processes relating to recipe improvement, FOAK tool qualification and photo scanner reject issue thus resulting in a cumulative 1.5% Yield Gain, 6% Manufacturing Availability improvement, 28% Recipe Processing Time Reduction and 50% improvement in photo scanner lot rejection per annum
-- Presented weekly analysis, plots, results, suggestions and directions to senior management and cross-faculty team members
+- **Presented weekly analysis, plots, results, suggestions and directions to senior management and cross-faculty team members**
 
 **Manufacturing Engineer @ Systems on Silicon Manufacturing Company Pte Ltd (SSMC) (_Jan 2021 – Jul 2021_)**
 - Led root-cause investigation through data mining efforts for wafer scrap case and presented investigation findings to senior management. Implemented SOP to prevent future occurrences of wafer scrap resulting from identified root cause
