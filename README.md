@@ -1,7 +1,7 @@
 
 
 # Certified Tableau Desktop Specialist
-![Link](/assets/certs/TableauDesktopSpecialist.png)
+
 #### Technical Skills: SQL, SQL Server Management Studio, PostgreSQL, Python, Tableau, PowerBI, Excel with VBA, JMP Pro, LaTeX
 #### Soft Skills: Project Management, Leadership, Effective Communication & Presentation
 
