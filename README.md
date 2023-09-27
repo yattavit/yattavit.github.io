@@ -1,5 +1,6 @@
 
 
+
 # Certified Tableau Desktop Specialist
 
 #### Technical Skills: SQL, SQL Server Management Studio, PostgreSQL, Python, Tableau, PowerBI, Excel with VBA, JMP Pro, LaTeX
@@ -23,6 +24,17 @@ Exploratory Data Analysis [EDA], feature-engineering & model testing was conduct
 The final model, along with the feature-engineered dataframe, acheived a **~90% predictive AUC score** after cross-validation via the Kaggle platform, thus demonstrating a strong ablity to discriminate between loan applicants whom are likely or unlikely to default on loans.
 
 ![Loan Defaulter Machine Learning Classification Project](/assets/img/Loan_Defaulter_Machine_Learning_Classification/ROC_Curves_for_CatBoostClassifier_Model_(Each_Fold).png)
+
+### Shopee Code League: Logistics *<font size="3"> [Python]  </font>*
+[GitHub](https://yattavit.github.io/Shopee_Code_League_Logistics/)
+
+Background: Amidst the global COVID-19 pandemic, the surge in online orders on Shopee has heightened the importance of on-time delivery, a critical factor in e-commerce success. To meet this demand, Shopee has partnered with top-performing logistics providers across the region, enforcing SLAs and penalties to ensure timely deliveries. This rigorous monitoring and accountability process reinforces Shopee's commitment to delivering goods punctually, enhancing user confidence.
+
+Task: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with our Logistics Provider.
+
+![Shopee Code League: Logistics](/assets/img/Shopee_Code_League_Logistics/1.png)
+
+
 
 ### Hotel Revenue Analysis *<font size="3"> [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]    </font>*
 [GitHub](https://yattavit.github.io/Hotel-Revenue-Analysis-Project/)
@@ -113,7 +125,7 @@ Further elaboration is done in the accompanying **Powerpoint Slides**.
 - Hackwagon IBF-DS101: **Data Science 101** Bootcamp
 - Vertical Institute: IBF-**Data Analytics** Bootcamp
 - DataCamp:  
-  ▪ Introduction to **PowerBI**  
+  ▪ Data Visualization in **PowerBI**  
   ▪ Intermediate **Python**  
   ▪ Intermediate **SQL**  
 - Google Data Analytics Professional Certificate: Data Analysis with **R Programming**
