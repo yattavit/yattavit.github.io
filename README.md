@@ -1,6 +1,4 @@
 
-
-
 # Certified Tableau Desktop Specialist
 
 #### Technical Skills: SQL, SQL Server Management Studio, PostgreSQL, Python, Tableau, PowerBI, Excel with VBA, JMP Pro, LaTeX
@@ -34,7 +32,14 @@ Task: Identify all the orders that are considered late depending on the Service 
 
 ![Shopee Code League: Logistics](/assets/img/Shopee_Code_League_Logistics/1.png)
 
+### COVID-19_SQL_Tableau_Dashboard *<font size="3"> [T-SQL, SQL Server Management Studio, Tableau]  </font>*
+[GitHub](https://yattavit.github.io/COVID-19_SQL_Tableau_Dashboard/)
 
+Background: This project focuses on visualizing COVID-19 infection and deaths using data obtained from ['Our World in Data'](https://ourworldindata.org/covid-deaths) with Tableau. It aims to provide a visual representation of the detrimental impact of COVID-19 on a global scale & within the SEA region.
+
+![COVID-19_SQL_Tableau_Dashboard_Global_Impact](/assets/img/COVID-19_SQL_Tableau_Dashboard/Global_Impact.png)
+
+![COVID-19_SQL_Tableau_Dashboard_Global_Impact](/assets/img/COVID-19_SQL_Tableau_Dashboard/SEA_Impact.png)
 
 ### Hotel Revenue Analysis *<font size="3"> [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]    </font>*
 [GitHub](https://yattavit.github.io/Hotel-Revenue-Analysis-Project/)
