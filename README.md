@@ -30,7 +30,7 @@ The final model, along with the feature-engineered dataframe, acheived a **~90% 
 
 Background: Amidst the global COVID-19 pandemic, the surge in online orders on Shopee has heightened the importance of on-time delivery, a critical factor in e-commerce success. To meet this demand, Shopee has partnered with top-performing logistics providers across the region, enforcing SLAs and penalties to ensure timely deliveries. This rigorous monitoring and accountability process reinforces Shopee's commitment to delivering goods punctually, enhancing user confidence.
 
-Task: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with our Logistics Provider.
+Task: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with Shopee's Logistics Provider.
 
 ![Shopee Code League: Logistics](/assets/img/Shopee_Code_League_Logistics/1.png)
 
