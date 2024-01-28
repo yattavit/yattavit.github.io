@@ -1,16 +1,17 @@
 
 # Certified Tableau Desktop Specialist
 
-#### Technical Skills: SQL, SQL Server Management Studio, PostgreSQL, Python, Tableau, PowerBI, Excel with VBA, JMP Pro, LaTeX
+#### Technical Skills: Tibco Spotfire, Tableau, PowerBI, SQL, SQL Server Management Studio, PostgreSQL, Python, Excel with VBA, JMP Pro, LaTeX
 #### Soft Skills: Project Management, Leadership, Effective Communication & Presentation
 
 ## Education & Relevant Certifications
+- DeepLearning.AI: Natural Language Processing with Classification and Vector Spaces (_Jan 2024_) [Link](https://coursera.org/share/a2257e0e36e7f218e9fe5371852744d9)
 - TDS-C01: Certified Tableau Desktop Specialist (_Jun 2023_) [Link](https://www.credly.com/badges/4830de97-b248-4c6d-9d03-922bc26f78bf/linked_in_profile)
 - HackerRank SQL [Intermediate] (_Jun 2023_) [Link](https://www.hackerrank.com/certificates/ecf14b275651)
 - B.S., Chemical Engineering: Technical University of Munich (_Sep 2020_)
 - Dip., Chemical Engineering: Temasek Polytechnic (_Apr 2015_)
 
-## Projects
+## Personal Projects
 
 ### Loan Defaulter Machine Learning Classification *<font size="3"> [Python, scikit-learn, Applied Machine Learning]  </font>*
 [GitHub](https://yattavit.github.io/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction/)
@@ -47,8 +48,8 @@ Background: This project focuses on visualizing COVID-19 infection and deaths us
 Business Case: A business manager of a chain of hotel would like to request help from the data analytics team to develop a dashboard to analyze & visualize hotel booking data
 
  - The business manager is interested if there’s any patterns/ seasonality with respect to:  
-	 1) Guests  
-	 2) Revenue  
+   1) Guests  
+   2) Revenue  
 
 Requirement: Build a Dashboard using **PowerBI** to provide at-a-glance information about features that are relevant to revenue
 
@@ -124,6 +125,7 @@ Further elaboration is done in the accompanying **Powerpoint Slides**.
 - Coordinated production activities with manufacturing technicians, process, equipment, automation and industrial engineers to meet daily and monthly manufacturing goals through the efficient use of manpower, material, and machine
 
 ## Courses
+- DeepLearning.AI: **Natural Language Processing** with Classification and Vector Spaces
 - Heicoders Academy AI200: **Applied Machine Learning**
 - Udemy, The Complete **SQL** Bootcamp: Go from Zero to Hero
 - LinkedIn Learning **SQL** Essential Training
