@@ -107,6 +107,11 @@ Further elaboration is done in the accompanying **Powerpoint Slides**.
 ![Numerical Investigation of Pressure Drop at Turbulent Flow Conditions in Single Pellet String Reactors](/assets/img/TUM_Thesis/SPSR_FrontView_MeanderingFluidFlow.png)
 
 ## Work Experience
+
+**Data Scientist @ NUHS (_Nov 2023 - Present_)**
+- Application of NLP, free-text processing with Python for classification problems
+- Development of **TIBCO Spotfire** dashboards for various departments within the healthcare cluster
+
 **Process & Equipment Engineer II @ Micron Semiconductor Operations Asia (_Dec 2022 - Feb 2023_)**
 - Continued to hold key appointment role as NPI Module Cycle Time Champion, delivered Module-wide presentation for proposed Diffusion Cycle-Time reduction initiative
 - Achieved reduction in NPI Cycle Time from 112 day to 99day for NPI PWE and 97 to 90 days for NPI RAR line to speed up Yield Learning progress for tech node, thus contributing to Fab Yield Ramp as Module Cycle Time Champion
