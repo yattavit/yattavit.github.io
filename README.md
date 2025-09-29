@@ -1,10 +1,19 @@
 
+
 # Certified Tableau Desktop Specialist
 
-#### Technical Skills: Tibco Spotfire, Tableau, PowerBI, SQL, SQL Server Management Studio, PostgreSQL, Python, Excel with VBA, JMP Pro, LaTeX
+#### Technical Skills
+Machine Learning & AI: AWS Sagemaker AI, NLP, LLMs (fine-tuning, prompt engineering, LangChain)
+Frameworks: TensorFlow, PyTorch, Scikit-learn
+Cloud & MLOps: AWS, Databricks, Docker, Kubernetes, workflow automation
+Business Intelligence (BI): Python (NumPy, Pandas), SQL, R; TIBCO Spotfire, Tableau, Power BI, AWS QuickSight
+CI/CD & Collaboration: GitHub, JIRA, Confluence, Bitbucket
+Operating Systems: Linux (command-line)
+
 #### Soft Skills: Project Management, Leadership, Effective Communication & Presentation
 
 ## Education & Relevant Certifications
+- Master of Science - MS, Computer Science: Georgia Institute of Technology, Aug 2024 – Ongoing
 - DeepLearning.AI: Natural Language Processing with Classification and Vector Spaces (_Jan 2024_) [Link](https://coursera.org/share/a2257e0e36e7f218e9fe5371852744d9)
 - TDS-C01: Certified Tableau Desktop Specialist (_Jun 2023_) [Link](https://www.credly.com/badges/4830de97-b248-4c6d-9d03-922bc26f78bf/linked_in_profile)
 - HackerRank SQL [Intermediate] (_Jun 2023_) [Link](https://www.hackerrank.com/certificates/ecf14b275651)
@@ -108,9 +117,12 @@ Further elaboration is done in the accompanying **Powerpoint Slides**.
 
 ## Work Experience
 
-**Data Scientist @ NUHS (_Nov 2023 - Present_)**
-- Application of NLP, free-text processing with Python for classification problems
-- Development of **TIBCO Spotfire** dashboards for various departments within the healthcare cluster
+**Data Scientist @ National University Health System (Nov 2023 – Present)**
+
+- Applied Natural Language Processing (NLP) and free-text processing with Python to develop supervised machine learning models for cancer prediction
+- Designed and deployed TIBCO Spotfire dashboards across multiple departments, enabling real-time clinical insights and operational decision-making.  
+- Built and deployed machine learning solutions using AWS and Docker, supporting scalable workflows and production-ready AI applications.  
+- Automated patient triage enrollment and notifications with FormSG, AWS (Lambda, DynamoDB, S3), and Twilio—streamlining WhatsApp reminders, secure data ingestion, and developed real-time workload dashboards for clinicians.
 
 **Process & Equipment Engineer II @ Micron Semiconductor Operations Asia (_Dec 2022 - Feb 2023_)**
 - Continued to hold key appointment role as NPI Module Cycle Time Champion, delivered Module-wide presentation for proposed Diffusion Cycle-Time reduction initiative
