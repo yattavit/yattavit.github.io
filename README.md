@@ -1,6 +1,6 @@
 
 
-# Certified Tableau Desktop Specialist
+# Certified Tableau Desktop Specialist 
 
 #### Technical Skills
 Machine Learning & AI: AWS Sagemaker AI, NLP, LLMs (fine-tuning, prompt engineering, LangChain)
